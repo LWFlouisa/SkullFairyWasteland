@@ -2,6 +2,6 @@
 title: "Skullfairy Wasteland"
 layout: index
 ---
-![skullfairy]()
+![skullfairy](https://raw.githubusercontent.com/LWFlouisa/SkullFairyWasteland/main/assets/banner.png)
 
-Welcome to my vampire diaries.
+Welcome to my skullfairy wasteland.
