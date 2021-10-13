@@ -1,6 +1,6 @@
 ---
 title: Blog Archive
-layout: page
+layout: default
 ---
 ## Blog
 This is a test blog for test blogging.
